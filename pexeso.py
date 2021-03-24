@@ -1,3 +1,11 @@
+# BBC micro:bit 1 - https://makecode.microbit.org/_UvF3jkYTUHjH
+# BBC micro:bit 2 - https://makecode.microbit.org/_1fAh5v4yUfDp
+# BBC micro:bit 3 - https://makecode.microbit.org/_DDx3i50h1HtM
+# BBC micro:bit 4 - https://makecode.microbit.org/_aRx6HbaWkRkM
+# BBC micro:bit 5 - https://makecode.microbit.org/_iVmHma920hk2
+# BBC micro:bit 6 - https://makecode.microbit.org/_W9f2t4XUxWRz
+
+
 from tkinter import Tk, Canvas, NW
 from time import sleep
 import threading, queue

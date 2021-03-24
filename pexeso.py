@@ -14,8 +14,8 @@ ROWS = 2
 COLS = 8
 PLAYER_1 = 1
 PLAYER_2 = 2
-IMG_WIDTH = 150 # Tested with 143
-IMG_HEIGHT = int(IMG_WIDTH * 2.035) # Ration of images is 1:2.035
+IMG_WIDTH = 150
+IMG_HEIGHT = int(IMG_WIDTH * 2.035) # Ratio of images is 1:2.035
 IMG_GAP = 30
 IMG_BORDER = 50
 
